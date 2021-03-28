@@ -1,0 +1,39 @@
+.page-header {
+	color: rgb(253, 250, 250);
+	background-color: #595b5d;
+	text-align: center;
+	font-size: 40px;
+	height: 100px;
+	padding: 8px;
+	margin: auto;
+	width: 100%;
+}
+
+.form-control form-control-sm ml-3 w-75 {
+	float: left;
+}
+
+#city-weather {
+	height: 250px;
+	margin: auto;
+	position: right;
+	border: solid rgb(235, 231, 231) 3px;
+}
+
+#city-head {
+	width: 100%;
+}
+
+#city-list {
+	background-color: #eaeef1;
+}
+
+.day-box {
+	float: left;
+	margin: 5px;
+	height: 100 px;
+	width: 75 px;
+	color: white;
+	background-color: rgb(69, 124, 228);
+	border: solid rgb(246, 243, 243) 2px;
+}
